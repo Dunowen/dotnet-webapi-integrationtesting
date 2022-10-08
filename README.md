@@ -1,0 +1,2 @@
+# .NET Web Api Integration Testing starter pack
+This repository showcases how to perform integration testing on a .NET Web API project with an in-memory EF database where you have control over the database entities. The idea behind this project is to be able to set the required data in the database before the test cases are executed.
