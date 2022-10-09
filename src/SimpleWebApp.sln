@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebApp.Domain", "Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebApp.DTOs", "SimpleWebApp.DTOs\SimpleWebApp.DTOs.csproj", "{71F42EA7-7F41-4821-862A-E8CE4D9C83AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebApp.IntegrationTests", "SimpleWebApp.IntegrationTests\SimpleWebApp.IntegrationTests.csproj", "{42F58358-6E4D-42FA-BBE1-C391B8B93BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{71F42EA7-7F41-4821-862A-E8CE4D9C83AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F42EA7-7F41-4821-862A-E8CE4D9C83AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F42EA7-7F41-4821-862A-E8CE4D9C83AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F58358-6E4D-42FA-BBE1-C391B8B93BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F58358-6E4D-42FA-BBE1-C391B8B93BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F58358-6E4D-42FA-BBE1-C391B8B93BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F58358-6E4D-42FA-BBE1-C391B8B93BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
